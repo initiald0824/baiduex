@@ -1,2 +1,0 @@
-def vulcan():
-    print 'test'
